@@ -1,0 +1,15 @@
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/bin/Debug/net6.0/Dz6
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/bin/Debug/net6.0/Dz6.deps.json
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/bin/Debug/net6.0/Dz6.runtimeconfig.json
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/bin/Debug/net6.0/Dz6.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/bin/Debug/net6.0/Dz6.pdb
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/Dz6.csproj.AssemblyReference.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/Dz6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/Dz6.AssemblyInfoInputs.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/Dz6.AssemblyInfo.cs
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/Dz6.csproj.CoreCompileInputs.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/Dz6.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/refint/Dz6.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/Dz6.pdb
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/Dz6.genruntimeconfig.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz5/Dz6/obj/Debug/net6.0/ref/Dz6.dll
